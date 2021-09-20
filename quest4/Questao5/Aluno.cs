@@ -32,7 +32,7 @@ namespace quest4
 
         public double getFaltouNota()
         {
-            return 90 - (n1 + n2 + n3);
+            return 60 - (n1 + n2 + n3);
         }
     }
 }
